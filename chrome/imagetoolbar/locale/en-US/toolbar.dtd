@@ -1,0 +1,20 @@
+<!-- Image Toolbar Locale v0.6 -->
+
+<!ENTITY imagetoolbar.save "Save">
+<!ENTITY imagetoolbar.copy "Copy">
+
+<!ENTITY imagetoolbar.manu "Manu">
+<!ENTITY imagetoolbar.facebook "Facebook">
+<!ENTITY imagetoolbar.greyscale "Greyscale">
+<!ENTITY imagetoolbar.retro "Retro">
+<!ENTITY imagetoolbar.sepia "Sepia">
+<!ENTITY imagetoolbar.vignette "Vignette">
+<!ENTITY imagetoolbar.print "Print">
+<!ENTITY imagetoolbar.info "Info">
+<!ENTITY imagetoolbar.folder "Folder">
+
+<!ENTITY imagetoolbar.save.key "S">
+<!ENTITY imagetoolbar.copy.key "C">
+<!ENTITY imagetoolbar.print.key "P">
+<!ENTITY imagetoolbar.info.key "I">
+<!ENTITY imagetoolbar.folder.key "F">
