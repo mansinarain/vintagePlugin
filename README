@@ -7,3 +7,9 @@ Right on the page.
 It helps the user get rid of all the intermediate steps such as downloading the image, uploading it on the app to manipulate with the image
 and then later uploading it back again.
 
+We have used vintageJS - javascript library that uses HTML5 canvas element to apply effects on images.
+
+Just drag-drop vintagePlugin.xpi to your firefox window and watch the images change!! .. 
+
+IMPORTANT: THE FACEBOOK SHARE BUTTON DOES NOT WORK CURRENTLY as it is linked to our own account. You can make changes in the code, and link it to your own account.
+
